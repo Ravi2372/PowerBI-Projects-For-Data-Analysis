@@ -4,8 +4,10 @@ This Power BI dashboard provides valuable insights into e-commerce sales, custom
 📌 Dashboard Features
 1️⃣ Sales Overview
 Total revenue, average order value, and trends over time.
+
 2️⃣ Customer Analysis
 Breakdown of new vs. returning customers.
+
 Top customers by purchase frequency and revenue contribution.
 3️⃣ Product Performance
 Best-selling products and top revenue-generating categories.
